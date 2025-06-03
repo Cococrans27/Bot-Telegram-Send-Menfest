@@ -10,9 +10,9 @@ import random
 import pytz
 
 # ======================= CONFIG =======================
-BOT_TOKEN = '7522370094:AAFiF2-IaZy-QqTGDjQM7bCCnE2qZ7F7gZ4'
-TARGET_CHAT_ID = -1002538420337
-ADMIN_IDS = [6826414660]
+BOT_TOKEN = 'Token Bot Mu'
+TARGET_CHAT_ID = 'Target CH atau Grup
+ADMIN_IDS = [ Id Admin ]
 DATA_FILE = 'user_data.json'
 STARTING_COINS = 5
 COST_PER_MESSAGE = 1
